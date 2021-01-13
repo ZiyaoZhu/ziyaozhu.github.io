@@ -185,11 +185,13 @@ actheader{
  /* 改字体 */
 	h1, h2, h3, h4, h5, h6 {
 		font-family: "微软雅黑","黑体","宋体";
-		text-color: #ffffff;
+
+		/* ext-color: #ffffff; */
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
 		text-transform: uppercase;
+
 		margin: 0 0 1rem 0;
 	}
 
@@ -270,9 +272,11 @@ actheader{
 		}
 
 	hr {
+		color: black;
 		border: 0;
 		border-bottom: solid 2px;
 		margin: 3rem 0;
+
 	}
 
 		hr.major {
@@ -3760,7 +3764,9 @@ actheader{
 /* Main */
 
 	#main {
+
 		background-color:#ffffff;
+		background-image: url("../../images/textbg.jpg") ;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
