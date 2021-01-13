@@ -185,6 +185,7 @@ actheader{
  /* 改字体 */
 	h1, h2, h3, h4, h5, h6 {
 		font-family: "微软雅黑","黑体","宋体";
+		text-color: #ffffff;
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
@@ -3759,7 +3760,7 @@ actheader{
 /* Main */
 
 	#main {
-		background-color: #ffffff;
+		background-color:#ffffff;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
