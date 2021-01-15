@@ -112,10 +112,7 @@ input, select, textarea {
 			-ms-transition: none !important;
 			transition: none !important;
 		}
-/* Chinese */
-actheader{
-		font-family: "STFangsong", Georgia, serif;
-}
+
 /* Type */
 
 	html {
@@ -2086,7 +2083,7 @@ actheader{
 		border-radius: 0;
 		cursor: pointer;
 		display: inline-block;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "微软雅黑","黑体","宋体";
 		font-size: 0.8rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
@@ -2095,7 +2092,7 @@ actheader{
 		padding: 0 2rem;
 		text-align: center;
 		text-decoration: none;
-		text-transform: uppercase;
+
 		white-space: nowrap;
 	}
 
@@ -2167,6 +2164,7 @@ actheader{
 		.button.large {
 			font-size: 0.9rem;
 			height: 3.5rem;
+			width:10rem;
 			line-height: 3.5rem;
 			padding: 0 2.75rem;
 		}
