@@ -199,7 +199,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 4rem;
+		font-size: 3rem;
 		line-height: 1.1;
 		margin: 0 0 2rem 0;
 	}
@@ -3392,7 +3392,7 @@ input, select, textarea {
 				}
 
 		#intro h1 {
-			font-size: 5rem;
+			font-size: 3rem;
 			line-height: 1;
 		}
 
@@ -3495,6 +3495,7 @@ input, select, textarea {
 				}
 
 		}
+
 
 /* Header */
 
