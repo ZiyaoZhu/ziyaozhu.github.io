@@ -3361,7 +3361,7 @@ input, select, textarea {
 			}
 
 				#wrapper > section.intro > header {
-					padding-top: 4rem;
+					padding-top: 0rem;
 					width: 100%;
 				}
 
